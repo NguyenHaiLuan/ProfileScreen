@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Profile_Screen</string>
+    <string name="nguy_n_h_i_lu_n">Nguyễn Hải Luân</string>
+    <string name="project">Project</string>
+    <string name="newbie">Newbie</string>
+    <string name="position">Position</string>
+    <string name="infomation">Infomation</string>
+    <string name="message">Message</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+</resources>
