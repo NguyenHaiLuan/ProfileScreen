@@ -29,7 +29,6 @@
         android:fontFamily="@font/alata"
         android:gravity="center"
         android:text="@string/nguy_n_h_i_lu_n"
-        android:textColor="@color/white"
         android:textSize="25sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
